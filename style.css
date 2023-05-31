@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    color:blue;
+    background-color:lightgray;
+}
+p{
+    font-size:100px;
+}
+button{
+    color:white; 
+    background-color: green;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 20px;
+}
+button:hover{
+    color:white;
+}
